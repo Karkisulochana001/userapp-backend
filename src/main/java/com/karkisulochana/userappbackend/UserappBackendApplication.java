@@ -1,12 +1,12 @@
-package com.dangisabin.userappbackend;
+package com.karkisulochana.userappbackend;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.dangisabin.userappbackend.model.User;
-import com.dangisabin.userappbackend.repository.UserRepository;
+import com.karkisulochana.userappbackend.model.User;
+import com.karkisulochana.userappbackend.repository.UserRepository;
 
 @SpringBootApplication
 public class UserappBackendApplication implements CommandLineRunner {

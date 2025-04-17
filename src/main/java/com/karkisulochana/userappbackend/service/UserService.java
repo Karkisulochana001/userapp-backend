@@ -1,12 +1,12 @@
-package com.dangisabin.userappbackend.service;
+package com.karkisulochana.userappbackend.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.dangisabin.userappbackend.model.User;
-import com.dangisabin.userappbackend.repository.UserRepository;
+import com.karkisulochana.userappbackend.model.User;
+import com.karkisulochana.userappbackend.repository.UserRepository;
 
 @Service
 public class UserService {

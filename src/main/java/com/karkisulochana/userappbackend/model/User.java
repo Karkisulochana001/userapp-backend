@@ -1,4 +1,4 @@
-package com.dangisabin.userappbackend.model;
+package com.karkisulochana.userappbackend.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

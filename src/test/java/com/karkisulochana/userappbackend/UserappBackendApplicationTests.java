@@ -1,4 +1,4 @@
-package com.dangisabin.userappbackend;
+package com.karkisulochana.userappbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

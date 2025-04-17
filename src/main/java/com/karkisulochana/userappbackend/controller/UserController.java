@@ -1,4 +1,4 @@
-package com.dangisabin.userappbackend.controller;
+package com.karkisulochana.userappbackend.controller;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.dangisabin.userappbackend.model.User;
-import com.dangisabin.userappbackend.service.UserService;
+import com.karkisulochana.userappbackend.model.User;
+import com.karkisulochana.userappbackend.service.UserService;
 
 @RestController
 @RequestMapping("/api")
